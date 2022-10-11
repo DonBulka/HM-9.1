@@ -4,7 +4,7 @@ public class Post {
     public String patronymic;
     public String phone;
     public String surname;
-    public String subscription;
+    public String isRegistered;
     public FormDate birthday = new FormDate();
 
 }
